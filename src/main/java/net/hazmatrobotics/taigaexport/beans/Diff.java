@@ -1,8 +1,5 @@
 package net.hazmatrobotics.taigaexport.beans;
 
-/**
- * Created by robotics9277 on 1/4/2017.
- */
 public class Diff {
     String[] assigned_to;
     Integer[] status;
@@ -21,5 +18,12 @@ public class Diff {
 
     public void setStatus(Integer[] status) {
         this.status = status;
+    }
+
+    @Override
+    public String toString() {
+        if (assigned_to != null) return "Assigned to " + assigned_to[1];
+        if (status != null) return "New status " + status[0] + " to " + status[1];
+        return null;
     }
 }
