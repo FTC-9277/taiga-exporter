@@ -10,6 +10,7 @@ public class Task {
     String description;
     String[] user;
     String subject;
+    Integer ref;
     String status;
     Integer user_story;
     HistoryItem[] history;
@@ -84,5 +85,13 @@ public class Task {
 
     public void setHistory(HistoryItem[] history) {
         this.history = history;
+    }
+
+    public Integer getRef() {
+        return ref;
+    }
+
+    public void setRef(Integer ref) {
+        this.ref = ref;
     }
 }

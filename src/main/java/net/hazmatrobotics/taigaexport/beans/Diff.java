@@ -20,10 +20,9 @@ public class Diff {
         this.status = status;
     }
 
-    @Override
-    public String toString() {
+    public String toString(HistoryItem parent) {
         if (assigned_to != null) return "Assigned to " + assigned_to[1];
-        if (status != null) return "New status " + status[0] + " to " + status[1];
+        if (status != null) return "Changed status:  " + parent.values.status.get(""+status[0]) + " to " + parent.values.status.get(""+status[1]);
         return null;
     }
 }

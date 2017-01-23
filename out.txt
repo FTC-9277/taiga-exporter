@@ -1,0 +1,362 @@
+15, Apr 03: Created Task - Recruit Rising Freshmen
+15, Apr 03: Recruit Rising Freshmen - Assigned to dominiccanora@gmail.com
+15, Apr 03: Recruit Rising Freshmen, Dominic Canora commented - Didn't like B's answer so I handed off to Dettman. He sent over an email so ball is in B's court.
+15, Apr 03: Recruit Rising Freshmen - Changed status:  New to In progress
+15, Apr 03: Recruit Rising Freshmen - Changed status:  In progress to Waiting
+15, Apr 03: Recruit Rising Freshmen, Dominic Canora commented - Currently waiting on Dettman and B to come to a date and time.
+15, Apr 03: Created Task - Presentation for Middle School in Recruit Rising Freshmen
+15, Apr 03: Recruit Rising Freshmen - Changed status:  Waiting to In progress
+15, Apr 03: Created Task - Date for Middle School in Recruit Rising Freshmen
+15, Apr 03: Date for Middle School, Dominic Canora commented - Waiting on Dettman and B to come to an agreement.
+15, Apr 03: Date for Middle School - Changed status:  New to In progress
+15, Apr 03: Date for Middle School - Changed status:  In progress to Waiting
+15, Apr 03: Created Task - Build Practice Programming Bot
+15, Apr 07: Date for Middle School, Dominic Canora commented - Dettman talked to Btvtz. Probably happening after AP Exams, might take whole day to be in science classrooms.
+15, Apr 07: Created Task - Get Build Space Ready for Next Season
+15, Apr 07: Created Task - Clean Cabinet in Get Build Space Ready for Next Season
+15, Apr 07: Created Task - Set up GitHub in Get Build Space Ready for Next Season
+15, Apr 07: Created Task - Make sure notebook templates are ready in Get Build Space Ready for Next Season
+15, Apr 07: Set up GitHub - Assigned to dominiccanora@gmail.com
+20, May 09: Presentation for Middle School - Assigned to dominiccanora@gmail.com
+28, Jul 09: Presentation for Middle School - Changed status:  New to Closed
+28, Jul 09: Date for Middle School - Changed status:  Waiting to Closed
+28, Jul 09: Recruit Rising Freshmen - Changed status:  In progress to Done
+35, Aug 21: Set up GitHub - Changed status:  New to Closed
+35, Aug 21: Created Task - Build the thing in Build Practice Programming Bot
+35, Aug 21: Created Task - Get an Android Studio project going for it in Build Practice Programming Bot
+35, Aug 21: Get an Android Studio project going for it - Assigned to dominiccanora@gmail.com
+35, Aug 21: Created Task - Set up laptops that were re-imaged in Get Build Space Ready for Next Season
+35, Aug 21: Set up laptops that were re-imaged - Assigned to dominiccanora@gmail.com
+35, Aug 21: Clean Cabinet - Changed status:  New to Closed
+35, Aug 22: Get an Android Studio project going for it - Changed status:  New to In progress
+35, Aug 22: Get an Android Studio project going for it - Changed status:  In progress to New
+35, Aug 22: Build the thing - Changed status:  New to In progress
+35, Aug 22: Get an Android Studio project going for it - Changed status:  New to In progress
+35, Aug 22: Set up laptops that were re-imaged - Changed status:  New to In progress
+35, Aug 22: Get an Android Studio project going for it - Changed status:  In progress to New
+35, Aug 22: Set up laptops that were re-imaged, Dominic Canora commented - Started installing JDK, Android Studio, Git.
+35, Aug 25: Build the thing, Dominic Canora commented - Finished bot, has touch, ir, light, and color sensors.
+35, Aug 25: Build the thing - Changed status:  In progress to Closed
+35, Aug 25: Get an Android Studio project going for it - Changed status:  New to In progress
+35, Aug 25: Get an Android Studio project going for it, Dominic Canora commented - Got a project opened and on GitHub, currently playing with sensors.
+36, Aug 30: Created Task - Learn Sensors in Build Practice Programming Bot
+36, Aug 30: Get an Android Studio project going for it, Dominic Canora commented - Android studio project has been made and includes basic motion and telemetry.
+36, Aug 30: Get an Android Studio project going for it - Changed status:  In progress to Closed
+36, Aug 30: Learn Sensors - Assigned to dominiccanora@gmail.com
+36, Aug 30: Learn Sensors, Dominic Canora commented - Set up telemetry for most sensors on programming bot, still need to test IR (it wasn't working in code) and do more than just report for the other sensors.
+36, Aug 30: Learn Sensors - Changed status:  New to In progress
+36, Aug 30: Set up laptops that were re-imaged, Dominic Canora commented - Laptop 634 was finished with all the basics, including ADB drivers.
+36, Aug 30: Set up laptops that were re-imaged - Changed status:  In progress to Closed
+36, Aug 30: Created Task - Build Shelves and Organize Botcave in Get Build Space Ready for Next Season
+36, Aug 30: Created Task - Decorate Team Materials in Get Build Space Ready for Next Season
+36, Aug 30: Created Task - Assemble full kits for beginning next season in Get Build Space Ready for Next Season
+36, Aug 30: Build Shelves and Organize Botcave, Dominic Canora commented - Shelves are built. Need a concrete organization method for the Botcave.
+36, Aug 30: Build Shelves and Organize Botcave - Changed status:  New to In progress
+36, Aug 30: Decorate Team Materials, Dominic Canora commented - Cart is spray painted! We still need to cut a stencil to do our logos on it.
+36, Aug 30: Decorate Team Materials - Changed status:  New to In progress
+36, Sep 01: Assemble full kits for beginning next season - Changed status:  New to In progress
+36, Sep 01: Assemble full kits for beginning next season, Dominic Canora commented - Broke open the new kits, sorted them into easier to use containers, and labelled most things. Our new phones are charging but still need to be set up.
+36, Sep 01: Created Task - Play with Autonomous in Build Practice Programming Bot
+36, Sep 01: Play with Autonomous - Changed status:  New to In progress
+36, Sep 01: Play with Autonomous, Dominic Canora commented - Wrote (but didn't have time to test) a simple autonomous that just drives.
+36, Sep 01: Decorate Team Materials, Dominic Canora commented - Holding off on spray paint until the laser is working and the weather clears up
+37, Sep 07: Created Task - Heart of a Highlander Day
+37, Sep 07: Created Task - Taiga Training
+37, Sep 07: Created Task - Set up new phones in Get Build Space Ready for Next Season
+37, Sep 07: Set up new phones - Assigned to dominiccanora@gmail.com
+37, Sep 07: Assemble full kits for beginning next season - Assigned to svillalobos450@gmail.com
+37, Sep 07: Created Task - Demo Bot
+37, Sep 07: Created Task - Team Member Bios
+37, Sep 07: Created Task - Bio template in Team Member Bios
+37, Sep 07: Created Task - Bio collection method in Team Member Bios
+37, Sep 07: Created Task - Individual Photos in Team Member Bios
+37, Sep 07: Created Task - Budgeting
+37, Sep 07: Play with Autonomous - Assigned to dominiccanora@gmail.com
+37, Sep 07: Learn Sensors - Assigned to varunneilaggarwal@gmail.com
+37, Sep 07: Play with Autonomous - Changed status:  In progress to Closed
+37, Sep 07: Build Practice Programming Bot - Changed status:  New to Done
+37, Sep 08: Play with Autonomous - Changed status:  Closed to In progress
+37, Sep 08: Play with Autonomous - Assigned to varunneilaggarwal@gmail.com
+37, Sep 08: Taiga Training, Dominic Canora commented - Sat down with the team and introduced Taiga to them. They will start using it for the notebook today.
+37, Sep 08: Taiga Training - Changed status:  New to Done
+37, Sep 08: Make sure notebook templates are ready - Changed status:  New to Waiting
+37, Sep 08: Build Shelves and Organize Botcave - Changed status:  In progress to Closed
+37, Sep 08: Build Shelves and Organize Botcave - Assigned to jacobefreyman@gmail.com
+37, Sep 08: Decorate Team Materials - Assigned to armaan.shaikh@aol.com
+37, Sep 08: Decorate Team Materials - Assigned to prhjr2001@gmail.com
+37, Sep 08: Assemble full kits for beginning next season - Changed status:  In progress to Closed
+37, Sep 08: Created Task - Call GKtW in Heart of a Highlander Day
+37, Sep 08: Call GKtW - Assigned to dominiccanora@gmail.com
+37, Sep 08: Bio collection method - Assigned to wilsonan09@gmail.com
+37, Sep 08: Individual Photos - Assigned to wilsonan09@gmail.com
+37, Sep 08: Created Task - Discuss in Budgeting
+37, Sep 08: Created Task - Spirit Items in Budgeting
+37, Sep 08: Spirit Items - Assigned to dominiccanora@gmail.com
+37, Sep 08: Individual Photos, Anna Wilson commented - Waiting for Rumsha's photo
+37, Sep 08: Individual Photos - Changed status:  New to Waiting
+37, Sep 09: Demo Bot, Dominic Canora commented - Hardware is done, still need to program it.
+37, Sep 09: Demo Bot - Changed status:  New to In progress
+37, Sep 09: Demo Bot - Assigned to dominiccanora@gmail.com
+37, Sep 10: Make sure notebook templates are ready - Assigned to jacobefreyman@gmail.com
+37, Sep 10: Make sure notebook templates are ready - Assigned to wilsonan09@gmail.com
+37, Sep 10: Make sure notebook templates are ready - Assigned to jacobefreyman@gmail.com
+37, Sep 10: Created Task - Drive Train
+37, Sep 10: Created Task - Beacon Attachment
+37, Sep 10: Created Task - Design in Beacon Attachment
+37, Sep 10: Created Task - Build in Beacon Attachment
+37, Sep 10: Created Task - Attach in Beacon Attachment
+37, Sep 10: Created Task - Build in Drive Train
+37, Sep 10: Created Task - Design in Drive Train
+37, Sep 10: Design - Assigned to svillalobos450@gmail.com
+37, Sep 10: Build - Assigned to svillalobos450@gmail.com
+37, Sep 10: Beacon Attachment - Assigned to wilsonan09@gmail.com
+37, Sep 10: Drive Train - Assigned to dominiccanora@gmail.com
+37, Sep 10: Drive Train - Assigned to svillalobos450@gmail.com
+37, Sep 10: Design - Assigned to null
+37, Sep 10: Created Task - "Phase Two"
+37, Sep 10: "Phase Two" - Assigned to svillalobos450@gmail.com
+37, Sep 10: Heart of a Highlander Day, Dominic Canora commented - Got an email from GKtW. Looks like a go, but we need to follow up.
+37, Sep 10: Call GKtW - Changed status:  New to In progress
+37, Sep 10: Demo Bot, Dominic Canora commented - Program is halfway done.
+37, Sep 10: Drive Train, Dominic Canora commented - Currently discussing the possibility of a holonomic triangle.
+37, Sep 10: Set up new phones, Dominic Canora commented - Finished updating and signing in to phones. Ready to start programming.
+37, Sep 10: Set up new phones - Changed status:  New to Closed
+37, Sep 10: Make sure notebook templates are ready - Changed status:  Waiting to In progress
+37, Sep 10: Make sure notebook templates are ready, Jacob Freyman commented - Me and Anna began the Notebook template today. We are basing some of it off of the previous year's notebook but with more stylish updates.
+38, Sep 11: Budgeting, Dominic Canora commented - Confirmed: $1000 for the season
+38, Sep 11: Budgeting - Assigned to dominiccanora@gmail.com
+38, Sep 11: Created Task - Homecoming Fundraising
+38, Sep 11: Created Task - Decide Pricing/Qty in Homecoming Fundraising
+38, Sep 11: Created Task - Buy bulk drinks in Homecoming Fundraising
+38, Sep 11: Created Task - Ask to borrow the school's coolers in Homecoming Fundraising
+38, Sep 11: Created Task - Two Beacon Auto
+38, Sep 11: Play with Autonomous, Varun Aggarwal commented - Tested autonomous and found several bugs. Bugs included telemetry(Resolved), returning encoder values(Resolved), and inability to stop the process(Unresolved). Currently, the program can reset encoders and run select distances with them, but the specific values for the target tolerance and P loop need to be adjusted.
+38, Sep 11: Bio collection method, Anna Wilson commented - Waiting for 5 more responses to the Google form
+38, Sep 11: Bio collection method - Changed status:  New to Waiting
+38, Sep 12: Created Task - Figure out Vision Tracking in Build Practice Programming Bot
+38, Sep 12: Figure out Vision Tracking - Changed status:  New to In progress
+38, Sep 12: Figure out Vision Tracking - Assigned to dominiccanora@gmail.com
+38, Sep 12: Figure out Vision Tracking, Dominic Canora commented - I'm chewing through the provided samples, trying to understand what it does. We're trying to use vision to see which side of the beacon is our color, and at this point I'm not sure if Vuforia does that, so we might need to use OpenCV instead of (or in addition to) Vuforia on our robot.
+38, Sep 12: Make sure notebook templates are ready, Dominic Canora commented - Closed -- duplicate
+38, Sep 12: Make sure notebook templates are ready - Changed status:  In progress to Closed
+38, Sep 12: Heart of a Highlander Day, Dominic Canora commented - Followed up with their email, their representative is going to call Mr. Dettman sometime this week.
+38, Sep 12: Heart of a Highlander Day - Changed status:  New to Waiting
+38, Sep 13: Design - Assigned to jacobefreyman@gmail.com
+38, Sep 13: Design, Jacob Freyman commented - Anna, PJ, and me found some possible solutions for the material that we will use to press the Beacon button. We also talked with the programmers to make sure whatever we design can be easily programmed.
+38, Sep 13: Design - Changed status:  New to In progress
+38, Sep 15: Design, Seba Villaloboss commented - Comment didnt post first time, my bad
+
+MONDAY 9/12; Drive train design decided on as modified triangle holonomic (trapezoidal) by determining this as the most effective using trig. 
+WEDENSDAY 9/14; Drive train decided to be attached using custom 3D printed brackets to ensure mechanical accuracy. First iteration of the brackets designed, and robot drive train created in Adobe Inventor. First iteration brackets printed the next day before practice.
+38, Sep 15: Design - Assigned to svillalobos450@gmail.com
+38, Sep 15: Design - Changed status:  New to In progress
+38, Sep 15: Build - Changed status:  New to In progress
+38, Sep 15: Build, Seba Villaloboss commented - Between the 9/14 and 9/15 practices, first iteration brackets were printed for testing and use on 9/15.
+38, Sep 15: Call GKtW - Changed status:  In progress to Closed
+38, Sep 15: Heart of a Highlander Day, Dominic Canora commented - Final arrangements have been made. We're going to be there from 8-10AM.
+38, Sep 15: Heart of a Highlander Day - Changed status:  Waiting to Done
+38, Sep 15: Figure out Vision Tracking, Dominic Canora commented - It looks like a color sensor might do what we need, so we're going to drop vision for now.
+38, Sep 15: Figure out Vision Tracking - Changed status:  In progress to Closed
+38, Sep 15: Play with Autonomous, Varun Aggarwal commented - Found final values for tolerance and P loop. Simplified code and moved methods to a new class, under an object, in order to simplify auto code across multiple classes.
+39, Sep 19: Individual Photos, Anna Wilson commented - Rumsha's back at practice, and I got her photo!
+39, Sep 19: Individual Photos - Changed status:  Waiting to Closed
+39, Sep 19: Created Task - STEM Week Outreach
+39, Sep 19: Created Task - Permission from Collazo in STEM Week Outreach
+39, Sep 19: Created Task - Assembly Plan in STEM Week Outreach
+39, Sep 19: Created Task - Assembly Prep in STEM Week Outreach
+39, Sep 19: Created Task - Fling Plan in STEM Week Outreach
+39, Sep 19: Created Task - Fling Prep in STEM Week Outreach
+39, Sep 19: STEM Week Outreach - Assigned to dominiccanora@gmail.com
+39, Sep 19: Demo Bot - Assigned to null
+39, Sep 19: Bio collection method, Anna Wilson commented - I'm still waiting for Seba, Josh, and Varun to respond to the form. I asked them to fill out the forms for the bio by the end of this practice (9/19).
+39, Sep 19: Discuss - Changed status:  New to Closed
+39, Sep 19: Bio template, Anna Wilson commented - Last practice, (9/15), I (Anna) created a template for the notebook.
+39, Sep 19: Bio template, Anna Wilson commented - There still needs to be a specific bio template created.
+39, Sep 19: Bio template - Assigned to wilsonan09@gmail.com
+39, Sep 19: Demo Bot - Assigned to prhjr2001@gmail.com
+39, Sep 19: Team Member Bios - Assigned to wilsonan09@gmail.com
+39, Sep 19: Homecoming Fundraising - Assigned to gamespam314@gmail.com
+39, Sep 19: Make sure notebook templates are ready - Assigned to wilsonan09@gmail.com
+39, Sep 19: Date for Middle School - Assigned to wilsonan09@gmail.com
+39, Sep 19: Decorate Team Materials, PJ Hughes commented - Final Touches were made on the cart; Boxes were stenciled with team Logos.
+39, Sep 19: Decorate Team Materials - Changed status:  In progress to Closed
+39, Sep 19: Assembly Plan - Changed status:  New to In progress
+39, Sep 19: Assembly Plan, Dominic Canora commented - Right now we're looking at doing something with maybe some addressable lights set to music -- it's easy, entertaining, and we can use the lights over in our build space and at competitions.
+39, Sep 19: Fling Plan, Dominic Canora commented - Current plan is just bringing the bot and the field out. Hopefully we can come up with something more original but it's a good backup plan.
+39, Sep 19: Fling Plan - Changed status:  New to In progress
+39, Sep 19: Spirit Items, Dominic Canora commented - Right now we're between stickers from Sticker Mule, or tattoos from TemporaryTattoos.com, the tattoos are a little more economical but the stickers are more useful to us and we think would actually get worn at competitions. Still need to debate and decide before December.
+39, Sep 19: Spirit Items - Changed status:  New to In progress
+39, Sep 21: Heart of a Highlander Day, Dominic Canora commented - We had such a great time at GKtW today. We saw so many smiling faces, having a robot to play with was such a fun surprise for a lot of the families. GKtW loved having us and we loved being there. We were offered an invitation to come back whenever we liked, and I think that we will be taking advantage of that. It's so great to be able to make such a difference with such a deserving community.
+39, Sep 21: Created Task - Return to GKtW
+39, Sep 21: Demo Bot, PJ Hughes commented - Program for Capn. Hook is completed; she functioned beautifully at our outreach event!
+39, Sep 21: Demo Bot - Changed status:  In progress to Done
+39, Sep 22: Created Task - Rockwell Colins Grant
+39, Sep 22: Rockwell Colins Grant - Assigned to wilsonan09@gmail.com
+39, Sep 22: Created Task - CAD Computer
+39, Sep 22: CAD Computer - Assigned to svillalobos450@gmail.com
+39, Sep 22: Created Task - Operating System in CAD Computer
+39, Sep 22: Operating System - Assigned to svillalobos450@gmail.com
+39, Sep 22: Ask to borrow the school's coolers - Assigned to dominiccanora@gmail.com
+39, Sep 22: Buy bulk drinks - Assigned to dominiccanora@gmail.com
+39, Sep 22: Decide Pricing/Qty - Assigned to gamespam314@gmail.com
+39, Sep 22: Rockwell Colins Grant - Assigned to armaan.shaikh@aol.com
+39, Sep 22: Learn Sensors, Dominic Canora commented - We got our new IMU (fancy gyro) soldered and connected to our test bot today. After spending an hour trying to test a custom class for it we built ourselves, we realized that FIRST provides one for us to used. Once we switched to that, everything started to work perfectly. We're starting to play around with driving with it in preparation for the main robot.
+39, Sep 22: Created Task - Programming in Drive Train
+39, Sep 22: Programming - Assigned to dominiccanora@gmail.com
+39, Sep 22: Programming - Changed status:  New to In progress
+39, Sep 22: Programming, Dominic Canora commented - We have two classes for our best shot at the math for our tri-wheel holonomic (aka kiwi drive), and we're waiting on electronics on the competition bot to see which one works the best.
+40, Sep 26: Demo Bot, PJ Hughes commented - The Demo Bot is beginning further modification to make it more awesome! Our first addition was a beam under the tape dispenser to make it easier for the tape to dispense.
+40, Sep 26: Budgeting, Dominic Canora commented - Got up to date with Dettman with all of our receipts this far into the season. As of today, we have $750 remaining, with spirit items still to be purchased along with the supplies for our cap ball mechanism.
+40, Sep 26: CAD Computer, Seba Villaloboss commented - As of 9/22, the computer is ready and waiting for OS to arrive in the main.
+40, Sep 26: Build, Seba Villaloboss commented - Finished on 9/21
+Minor adjustments were made to the corner brackets, and they were printed to be much stronger to be used on the robot. The drive train was bolted together, and holes were drilled to put the motor mounts at exactly 60 degrees with less than 1 degree tolerance. However, the first arrangement of the motors made the robot too big, so the motors on the wide end were flipped inwards to made the robot fit inside the 18x18x18 in cube.Minor adjustments were made to the corner brackets, and they were printed to be much stronger to be used on the robot. The drive train was bolted together, and holes were drilled to put the motor mounts at exactly 60 degrees with less than 1 degree tolerance. However, the first arrangement of the motors made the robot too big, so the motors on the wide end were flipped inwards to made the robot fit inside the 18x18x18 in cube.
+40, Sep 26: Build - Changed status:  In progress to Closed
+40, Sep 26: Design - Changed status:  In progress to Closed
+40, Sep 26: CAD Computer - Changed status:  New to In progress
+40, Sep 26: Rockwell Colins Grant - Changed status:  New to In progress
+40, Sep 26: Homecoming Fundraising - Changed status:  New to In progress
+40, Sep 26: Budgeting - Changed status:  New to In progress
+40, Sep 26: Design, Seba Villaloboss commented - The prototype is finished, robot ready version started
+40, Sep 26: Design - Changed status:  In progress to Closed
+40, Sep 26: Build - Changed status:  New to In progress
+40, Sep 26: Build - Assigned to prhjr2001@gmail.com
+40, Sep 26: Demo Bot, PJ Hughes commented - A handle was added to the Demo bot to make transportation easier at our outreach events
+40, Sep 26: Programming, Dominic Canora commented - TONS of improvement in the driving code. We can now strafe fairly straight (as well as we can with our current super-off-center weight distribution). Next up to do is code to auto correct our angle on the field so we can stay reliably straight.
+40, Sep 29: Beacon Attachment, Anna Wilson commented - The beacon attachment is built, and the medical tubing has been widened so that there is a larger margin of error when the robot goes to push the buttons.
+40, Sep 29: Beacon Attachment, Anna Wilson commented - The tubing looks slightly ratchet,so we may redo it so that it looks more professional.
+40, Sep 29: Beacon Attachment, Anna Wilson commented - Seba is adding color sensors to the beacon attachment.
+40, Sep 30: CAD Computer, Seba Villaloboss commented - After having issues with installing Windows, we put Linux on the computer on 9/29, and will try a new method of installation on 10/3.
+40, Sep 30: Build - Changed status:  In progress to Closed
+40, Sep 30: Attach - Changed status:  New to Closed
+40, Sep 30: Attach - Assigned to svillalobos450@gmail.com
+40, Sep 30: Beacon Attachment, Seba Villaloboss commented - Color sensors attached 9/29, a backup plan with flat metal is in place in case the tubes don't work.
+40, Sep 30: Created Task - Design Matrix/Planning in "Phase Two"
+40, Sep 30: Created Task - Design/Concept in "Phase Two"
+40, Sep 30: Created Task - CAD in "Phase Two"
+40, Sep 30: Created Task - Build and Attach in "Phase Two"
+41, Oct 02: Two Beacon Auto - Assigned to dominiccanora@gmail.com
+41, Oct 02: Permission from Collazo - Assigned to dominiccanora@gmail.com
+41, Oct 02: Assembly Plan, Dominic Canora commented - We're going to try to recreate the Crowd-A-Tron from FRC events, but with an interactive aspect on people's iPads. It's a bit daunting but we have two months and I think it'll turn out really cool. We have a proof of concept done showing that we can in fact get all the iPads synced, and we're moving on to building the actual show next week.
+41, Oct 02: Fling Plan, Dominic Canora commented - It was discussed to maybe bring Exploding Bacon to fling if they have the day free, in addition to our own bot.
+41, Oct 02: STEM Week Outreach - Changed status:  New to In progress
+41, Oct 02: Learn Sensors, Varun Aggarwal commented - Sept 29: We were able to get the color sensor to correctly read the colors from the beacon. We created a simple program that made the robot turn until it was facing the correct color on the beacon, which worked very well.
+41, Oct 02: Learn Sensors, Varun Aggarwal commented - Sept 30: We wrote a new autonomous holonomic drive method with automatic correction to the expected angle of the robot. Did not have time to test.
+41, Oct 02: Play with Autonomous, Varun Aggarwal commented - Sept 21: We wrote 2 different methods for driving using the holonomic system. The autonomous version takes two inputs, a drive speed and an angle, and uses them to move the robot at the expected speed and angle. We did not have time to test.
+41, Oct 02: Play with Autonomous, Varun Aggarwal commented - Sept 22: Tested out the holonomic drive method. It works, but the weight imbalance of the robot causes it to turn when it should be moving in a straight line. Began to write an automatic correction for this, but did not have time to complete.
+41, Oct 02: Play with Autonomous, Varun Aggarwal commented - Sept 30: Modified the autonomous holonomic drive method to include a simple auto-correction using the gyroscope, but did not have time to test.
+41, Oct 03: Rockwell Colins Grant, Armaan Shaikh commented - Finished thank-you letter to Rockwell Collins. Confirm documents needed with application form(Dettman).
+41, Oct 03: STEM Week Outreach, Dominic Canora commented - Today I emailed Collazo to make an appointment to run our current thoughts by her.
+42, Oct 10: Rockwell Colins Grant - Changed status:  In progress to Waiting
+42, Oct 10: Rockwell Colins Grant - Changed status:  Waiting to In progress
+42, Oct 10: Team Member Bios - Changed status:  New to Done
+42, Oct 10: Team Member Bios - Changed status:  Done to In progress
+42, Oct 10: Bio collection method - Changed status:  Waiting to Closed
+42, Oct 10: Bio template - Changed status:  New to Closed
+42, Oct 10: Team Member Bios - Changed status:  In progress to Done
+42, Oct 10: Created Task - Midseason Video
+42, Oct 10: Created Task - Concept in Midseason Video
+42, Oct 10: Created Task - Script in Midseason Video
+42, Oct 10: Created Task - Filming in Midseason Video
+42, Oct 10: Created Task - Editing in Midseason Video
+42, Oct 10: Created Task - Turning In in Midseason Video
+42, Oct 10: Programming, Dominic Canora commented - Auto correction code was tuned fully today, we can drive in a fairly straight line in any direction, regardless of weight balance.
+42, Oct 10: Programming - Changed status:  In progress to Closed
+42, Oct 10: Drive Train - Changed status:  New to Done
+42, Oct 10: Learn Sensors, Varun Aggarwal commented - Wrote a line orient program using the optical distance sensors to line up the robot in front of the beacons.
+42, Oct 10: Learn Sensors - Changed status:  In progress to Closed
+42, Oct 10: Play with Autonomous - Changed status:  In progress to Closed
+42, Oct 11: Design Matrix/Planning - Changed status:  New to Closed
+42, Oct 11: Design Matrix/Planning - Assigned to svillalobos450@gmail.com
+42, Oct 11: Design Matrix/Planning, Seba Villaloboss commented - Discussed on Monday, 10/9
+
+We defined Phase Two to be the design and build of a second functional mechanism on the robot. The two paths to gain points that we considered were the cap ball capping and shooting balls into the center vortex. We compared four options (reloadable shooter, non-reloadable shooter, cap ball, and cap ball + NR shooter) in terms of their guaranteed and potential score, reliability, and difficulty to build. We determined the cap ball was the most efficient choice, and if we were able two, we should build a non-reloadable shooter to accompany the cap ball mechanism.
+42, Oct 11: Design/Concept - Changed status:  New to Closed
+42, Oct 11: Design/Concept - Assigned to svillalobos450@gmail.com
+42, Oct 11: Design/Concept, Seba Villaloboss commented - Discussed on Monday 10/9
+After deciding on the cap ball for Phase Two, we got to work conceptualizing the mechanisms we'd need to be successful. We broke it down into three functions; grasping the ball, lifting the ball, and supporting the robot's balance while lifting. To grasp the ball, we designed a mechanism that turns two arms made of PVC pipe covered in rubber matting using a motor on a chain. This assembly will be lifted by two extension lift rigged with a chain loop. This lift will be made out of a thinner version of 8020. Lastly, a sort of ball bearing wheel, lowered by a servo, will provide stability to the robot as it raises the cap ball.
+42, Oct 11: "Phase Two" - Changed status:  New to In progress
+42, Oct 11: CAD - Assigned to svillalobos450@gmail.com
+42, Oct 11: CAD Computer, Seba Villaloboss commented - Windows installed on both hard drives separately, though there are issues with random BSODs.
+43, Oct 20: Homecoming Fundraising, Joshua Fu commented - Somewhat belated, but all a donor has generously offered to cover the cost of all the drinks. The drinks have been bought, prices set ($1), and we have decided to have one central "station" with a table, and smaller stations flanking the central one a little ways off. Posters are going to be made by Danny, and whiteboards can be used as backups. Black zipper bags have been decided as the container to hold the money.
+43, Oct 22: Homecoming Fundraising, Anna Wilson commented - We finished the homecoming sale last night, and it was a great success. We made $689 when all of the costs of running the sale were subtracted.
+43, Oct 22: Homecoming Fundraising - Changed status:  In progress to Done
+43, Oct 22: Rockwell Colins Grant - Changed status:  In progress to Waiting
+44, Oct 24: Homecoming Fundraising - Changed status:  Done to In progress
+44, Oct 24: Decide Pricing/Qty - Changed status:  New to Closed
+44, Oct 24: Buy bulk drinks - Changed status:  New to Closed
+44, Oct 24: Ask to borrow the school's coolers - Changed status:  New to Closed
+44, Oct 24: Created Task - Thank You Note in Homecoming Fundraising
+44, Oct 24: Thank You Note - Assigned to gamespam314@gmail.com
+44, Oct 24: Rockwell Colins Grant, Armaan Shaikh commented - Confirmed with Dettman, form has been submitted. Whether we get the grant or not is beyond our control.
+44, Oct 24: Rockwell Colins Grant - Changed status:  Waiting to Done
+44, Oct 24: Two Beacon Auto, Dominic Canora commented - Auto has been improving steadily for the past few meetings. We can currently drive to the beacon, line up on the white line, detect which side is our alliance color, and deploy our button pusher on the correct side. Waiting for the builders to make our button pusher more accurate to continue on. It looks like we should be done by our first competition.
+44, Oct 24: Two Beacon Auto - Changed status:  New to In progress
+45, Nov 01: Permission from Collazo - Changed status:  New to Closed
+45, Nov 01: Permission from Collazo, Dominic Canora commented - There isn't a set date for STEM week yet, but we have Ms. Collazo's word that we will have 10 or 15 minutes to present when it happens.
+46, Nov 12: Homecoming Fundraising - Changed status:  In progress to Done
+46, Nov 12: Thank You Note - Changed status:  New to Closed
+46, Nov 12: Budgeting, Armaan Shaikh commented - Ordered three different types of stickers and split the cost with 10650, our sister team. Not arriving in time for first tournament, but we laser cut spirit items.
+46, Nov 12: Budgeting - Changed status:  In progress to Done
+47, Nov 17: Two Beacon Auto, Dominic Canora commented - At meet one, our auto worked almost flawlessly. The only issues were, our beacon pressing mechanism was way too low since apparently our school's DIY field was made incorrectly. In addition, the "wiggle" that our robot does between beacons sometimes messed up finding the second line, since the back color sensor was too far back to see it. Between now and our next competition, we're going to build a different, more efficient, reliable, and more tolerant beacon mechanism, adjust our auto for our new, faster motors, and tune the drive train math to get rid of the wiggle.
+47, Nov 17: Midseason Video - Changed status:  New to In progress
+47, Nov 17: Midseason Video, Armaan Shaikh commented - We recorded the intro narration and assorted some of the footage 11/16/16
+48, Nov 23: Created Task - Notebook
+48, Nov 23: Created Task - Taiga Dump to Usable Format in Notebook
+48, Nov 23: Taiga Dump to Usable Format - Assigned to dominiccanora@gmail.com
+50, Dec 08: Two Beacon Auto, Dominic Canora commented - Our auto was updated to use 40:1 motors (as opposed to the 60:1s that we had before) and worked flawlessly again at our second tournament. We also added a strafe right at the end of our auto to knock the cap ball off the center vortex because we had extra time due to faster motors. I hesitate to say it, but I think auto is done for the season.
+50, Dec 08: Two Beacon Auto - Changed status:  In progress to Done
+50, Dec 08: Created Task - Judgement Day Presentation
+50, Dec 08: Created Task - Script in Judgement Day Presentation
+50, Dec 08: Script - Assigned to dominiccanora@gmail.com
+50, Dec 08: Midseason Video - Assigned to prhjr2001@gmail.com
+50, Dec 08: Script, Dominic Canora commented - 12/6: Created a bulleted list of points to touch on during our presentation, based off of the Quality Elements in the team awards guide. We have a LOT to say, and I think the hardest part of our presentation is figuring out what we can take out. I'm so excited to have a hopefully stellar judging score, I think it can happen this year if we all give it 100%.
+50, Dec 08: Midseason Video, PJ Hughes commented - The video was completely filmed and edited before the deadline, and it has been submitted to the league for judging.
+50, Dec 08: Script, Dominic Canora commented - Started to organize our bullet points into a structured presentation that flows well, and started to assign the talking points to team members. Unfortunately it looks like two of our members will be taking the SAT on judgement day, hopefully they can make it to the presentation.
+50, Dec 08: Judgement Day Presentation - Changed status:  New to In progress
+50, Dec 08: Script - Changed status:  New to In progress
+50, Dec 08: Taiga Dump to Usable Format - Changed status:  New to In progress
+50, Dec 08: Concept - Changed status:  New to Closed
+50, Dec 08: Script - Changed status:  New to Closed
+50, Dec 08: Filming - Changed status:  New to Closed
+50, Dec 08: Editing - Changed status:  New to Closed
+50, Dec 08: Turning In - Changed status:  New to Closed
+50, Dec 08: Midseason Video - Changed status:  In progress to Done
+50, Dec 08: Created Task - Non Reloadable Shooter
+50, Dec 08: Non Reloadable Shooter - Assigned to armaan.shaikh@aol.com
+50, Dec 08: Non Reloadable Shooter, Armaan Shaikh commented - We found the pvc we are going to use for the fly wheel mechanism. We tested out two different wheels and found out the motor we were using was not fast enough for our needs.
+2, Jan 09: CAD Computer, Dominic Canora commented - Still getting random BSODs, going to return the motherboard soon.
+2, Jan 09: Taiga Dump to Usable Format, Dominic Canora commented - Finished a Taiga export reader that takes the JSON dump and turn it into a sorted-by-date list that we can copy-paste into a notebook document.
+2, Jan 09: Taiga Dump to Usable Format - Changed status:  In progress to Closed
+2, Jan 09: Non Reloadable Shooter, PJ Hughes commented - We discovered that the motors we had already in our workshop were not working for shooting the balls, even after we tried gearing them up as well as other ways to make them faster to shoot successfully. Instead of wasting more time on these methods though, we decided to go ahead and purchase a few 4:1 ratio motors. Hopefully these will come in soon and allow us to succeed in creating our non reloadible shooter.
+2, Jan 09: Script, Dominic Canora commented - Bullet-by-bullet list is done and organized by person. People are supposed to be rehearsing and we are reconvening on Thursday for a run-through.
+2, Jan 09: Assembly Plan, Dominic Canora commented - We have decided to do a light show to "Victorious" by Panic! at the Disco on students' iPads. I am going to put together a proof on concept over break (Dec. 15).
+2, Jan 09: Assembly Plan - Assigned to dominiccanora@gmail.com
+2, Jan 09: Assembly Prep - Assigned to dominiccanora@gmail.com
+2, Jan 09: Assembly Plan - Changed status:  In progress to Closed
+2, Jan 09: Assembly Prep, Dominic Canora commented - A proof of concept for the light show is done! It works great, but I need to write it to communicate with a server instead of locally on the computer. It's going to be SO great.
+2, Jan 09: Assembly Prep - Changed status:  New to In progress
+2, Jan 11: Created Task - Toxic Tech
+2, Jan 11: Created Task - Logistics in Toxic Tech
+2, Jan 11: Created Task - Spirit Items/Decorations in Toxic Tech
+2, Jan 11: Created Task - Setup in Toxic Tech
+2, Jan 11: Created Task - Role Allocation in Toxic Tech
+2, Jan 11: Notebook - Changed status:  New to In progress
+2, Jan 11: Beacon Attachment - Changed status:  New to Done
+2, Jan 11: Toxic Tech - Changed status:  New to Done
+2, Jan 11: Beacon Attachment, Anna Wilson commented - We changed the the beacon attachment to include a single flat panel of metal with a foam covering so that there was a larger margin of error for our robot around the beacon buttons. Instead of pressing the buttons with two servos, we physically ram our robot into the beacon.
+2, Jan 11: Prototype, Seba Villaloboss commented - The REV Robotics linear slides arrived some time in November, and those were lightly experimented with throughout the month, and we were able to make it rise by pulling a string at the bottom led through the set of slides by bearings. Throughout December practices we worked on a mechanism to grab the cap ball with four servos attached to a plate.
+2, Jan 11: Prototype - Changed status:  New to Closed
+2, Jan 11: Role Allocation, Anna Wilson commented - Mr. Dettman, Mr. Pirie, and Mr. Richardville are helping to organize the tournament. They worked with administration to reserve our facilities. Mr. Dettman created a sign up genius form for our parent volunteers to complete.
+2, Jan 11: Spirit Items/Decorations, Anna Wilson commented - The team created candy buckets, gift bags, and signs for the tournament.
+2, Jan 11: Spirit Items/Decorations, Anna Wilson commented - Our signature team HazMat suits are ready for competition.
+2, Jan 11: Build and Attach, Seba Villaloboss commented - After the prototypes for the ball grabber and lift were successful, a final version was made using a metal plate with the servo mounts bolted onto it. This is mounted onto the robot with a spool for the kevlar rope.
+2, Jan 11: Build and Attach - Changed status:  New to In progress
+2, Jan 11: Setup, Anna Wilson commented - The night before the tournament, we stayed at school from 5pm to 8pm setting up the competition and practice fields as well as the pit area.
+2, Jan 11: Role Allocation, Anna Wilson commented - Mr. Dettman gave us a set of tasks to complete throughout the tournament like giving people directions and helping struggling teams finish their robots. We divided the work among ourselves.
+2, Jan 11: Logistics, Anna Wilson commented - We arrived at the competition at 6:45 in the morning and left at 5:30 in the afternoon.
+4, Jan 23: Judgement Day Presentation, Armaan Shaikh commented - We went over the script while assigning different parts to different people that we thought would "fit the part". We then looked over our lines, and met at the end of practice on Monday and Wednesday.1/9/17 & 1/11/17.
+4, Jan 23: Judgement Day Presentation, Armaan Shaikh commented - After attempting to switch our judgement time with the league, which was unsuccessful, two of our teammates would not be able to make it due to the SAT. This caused a little trouble because people would have to take on their lines, but we assigned those lines to people and it all worked out fine. 1/18/17
+4, Jan 23: Script - Changed status:  In progress to Closed
+4, Jan 23: Judgement Day Presentation - Changed status:  In progress to Done
+4, Jan 23: Judgement Day Presentation, Armaan Shaikh commented - Looking back on judgement day everything went well. We mixed up some of our lines in the judging presentation, but we got all of our information across to the judges and they were well understanding. In the robot presentation we did really well, and the judges asked really good questions about colleges and our inspiration for the unique design of the robot. 1/23/17
+4, Jan 23: Non Reloadable Shooter, Armaan Shaikh commented - We received the motors we ordered and split into two groups. One group would pursue the original idea of having one wheel spinning with a secured channel to provide pressure, however instead of using a channel we decided to switch to two wheels spinning(similar to the way baseball launchers work). The other group of students went with a flicking design with two pieces of acrylic attached to a channel that is pulled down using a motor. Both of these are currently in their latter stages of prototyping however they are not finalized.

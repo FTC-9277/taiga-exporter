@@ -1,5 +1,8 @@
 package net.hazmatrobotics.taigaexport.beans;
 
+import net.hazmatrobotics.taigaexport.TaigaExporter;
+
+import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
@@ -12,6 +15,7 @@ public class HistoryItem {
     Values values;
     Diff diff;
 
+    static DateFormat hr_df = new SimpleDateFormat("w, MMM dd");
     static SimpleDateFormat df = new SimpleDateFormat("D:yyyy");
 
     public Diff getDiff() {
@@ -75,9 +79,16 @@ public class HistoryItem {
     }
 
     public String toString(Task parent) {
-        if (comment.trim().length() > 0) return comment.trim();
-        if (is_snapshot) return "Created " + parent.getSubject();
-        if (diff.toString() != null) return diff.toString();
-        return "Can't report";
+        String leader = hr_df.format(created_at) + ": ";
+        if (comment.trim().length() > 0) return leader + parent.subject + ", " + user[1] + " commented - " + comment.trim();
+        if (is_snapshot) {
+            if(parent.getUser_story() != null)
+                return leader + "Created Task - " + parent.getSubject() + " in " +
+                        TaigaExporter.usNameMap.get(parent.getUser_story());
+            else
+                return leader + "Created Task - " + parent.getSubject();
+        }
+        if (diff.toString(this) != null) return leader + parent.subject + " - " + diff.toString(this);
+        return null;
     }
 }

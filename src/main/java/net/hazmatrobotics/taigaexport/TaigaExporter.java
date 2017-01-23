@@ -8,21 +8,28 @@ import net.hazmatrobotics.taigaexport.beans.Task;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
+import java.io.PrintWriter;
+import java.util.*;
 
 public class TaigaExporter {
     public static Gson g = new Gson();
     static Root root;
-    static Map<String, List<String>> map = new HashMap<>();
+    static Map<Date, String> map = new TreeMap<>();
+    public static Map<Integer, String> usNameMap = new TreeMap<>();
+    static PrintWriter mainWriter, refWriter;
 
     public static void main(String... args) throws FileNotFoundException {
-        File f = new File("C:\\Users\\robotics9277\\IdeaProjects\\taiga-export\\data.json");
+        File f = new File("C:\\Users\\robotics9277\\Documents\\taiga-exporter\\data.json");
         FileReader r = new FileReader(f);
+        mainWriter = new PrintWriter(new File("C:\\Users\\robotics9277\\Documents\\taiga-exporter\\out.txt"));
+        refWriter = new PrintWriter(new File("C:\\Users\\robotics9277\\Documents\\taiga-exporter\\ref.txt"));
 
         root = g.fromJson(r, Root.class);
+
+        for(Task t : root.getUser_stories()) {
+            usNameMap.put(t.getRef(), t.getSubject());
+            refWriter.println(t.getRef() + ": " + t.getSubject());
+        }
 
         for (Task t : root.getTasks()) {
             for (HistoryItem h : t.getHistory()) {
@@ -35,13 +42,19 @@ public class TaigaExporter {
                 handle(t, h);
             }
         }
+
+        for(String m : map.values()) {
+            mainWriter.println(m);
+            System.out.println(m);
+        }
+
+        mainWriter.flush();
+
+        refWriter.flush();
     }
 
     private static void handle(Task t, HistoryItem h) {
-        if (!map.containsKey(h.getSortDate())) {
-            map.put(h.getSortDate(), new ArrayList<String>());
-        }
-        System.out.println(h.toString(t));
-        map.get(h.getSortDate()).add(h.toString(t));
+        if(h.toString(t) != null)
+            map.put(h.getCreated_at(), h.toString(t));
     }
 }
