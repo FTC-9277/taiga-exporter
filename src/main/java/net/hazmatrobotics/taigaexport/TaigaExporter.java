@@ -9,7 +9,9 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.PrintWriter;
-import java.util.*;
+import java.util.Date;
+import java.util.Map;
+import java.util.TreeMap;
 
 public class TaigaExporter {
     public static Gson g = new Gson();
@@ -19,10 +21,10 @@ public class TaigaExporter {
     static PrintWriter mainWriter, refWriter;
 
     public static void main(String... args) throws FileNotFoundException {
-        File f = new File("C:\\Users\\robotics9277\\Documents\\taiga-exporter\\data.json");
+        File f = new File("C:\\Users\\robotics9277\\IdeaProjects\\taiga-export\\data.json");
         FileReader r = new FileReader(f);
-        mainWriter = new PrintWriter(new File("C:\\Users\\robotics9277\\Documents\\taiga-exporter\\out.txt"));
-        refWriter = new PrintWriter(new File("C:\\Users\\robotics9277\\Documents\\taiga-exporter\\ref.txt"));
+        mainWriter = new PrintWriter(new File("C:\\Users\\robotics9277\\IdeaProjects\\taiga-export\\out.txt"));
+        refWriter = new PrintWriter(new File("C:\\Users\\robotics9277\\IdeaProjects\\taiga-export\\ref.txt"));
 
         root = g.fromJson(r, Root.class);
 

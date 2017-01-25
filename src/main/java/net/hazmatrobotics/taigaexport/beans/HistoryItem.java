@@ -80,15 +80,20 @@ public class HistoryItem {
 
     public String toString(Task parent) {
         String leader = hr_df.format(created_at) + ": ";
-        if (comment.trim().length() > 0) return leader + parent.subject + ", " + user[1] + " commented - " + comment.trim();
+
+        String parentProj = "";
+        if (parent.getUser_story() != null) parentProj = TaigaExporter.usNameMap.get(parent.getUser_story()) + ": ";
+
+        if (comment.trim().length() > 0)
+            return leader + user[1] + " commented on " + parentProj + parent.getSubject() + " - " + comment.trim();
         if (is_snapshot) {
             if(parent.getUser_story() != null)
-                return leader + "Created Task - " + parent.getSubject() + " in " +
-                        TaigaExporter.usNameMap.get(parent.getUser_story());
+                return leader + "Created Task " + parentProj +
+                        parent.getSubject();
             else
-                return leader + "Created Task - " + parent.getSubject();
+                return leader + "Created Project " + parent.getSubject();
         }
-        if (diff.toString(this) != null) return leader + parent.subject + " - " + diff.toString(this);
+        if (diff.toString(this, parent) != null) return leader + diff.toString(this, parent);
         return null;
     }
 }
